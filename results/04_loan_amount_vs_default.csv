@@ -1,0 +1,4 @@
+loan_amount_bin,total_loans,defaulted_loans,default_rate_percent
+Medium,3757,510,13.57
+Large,2579,329,12.76
+Small,3664,353,9.63
