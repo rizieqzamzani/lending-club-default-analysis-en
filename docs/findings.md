@@ -135,4 +135,3 @@ If a Medium > Large pattern shows up consistently in a larger dataset, this mech
 
 - Cross-analysis of grade × purpose and grade × loan amount. A first pass at grade × purpose produced 74 combinations, many with very few loans (5 combinations have only 1 loan), so a minimum loan count is needed before comparing or ranking them.
 - Vintage analysis: recompute default rates using only loans that have fully run.
-- Window functions: default-rate ranking by grade (CTE + RANK) is done; next is ranking within segments (PARTITION BY).
